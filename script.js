@@ -1,5 +1,5 @@
 //IFFE
 (() => {
-    alert("hi");
+    alert("this is version 2");
 })();
 
